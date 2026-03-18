@@ -1,0 +1,32 @@
+[
+    {
+        "id":101,
+        "name":"Cotton T Shirt",
+        "price":45,
+        "description":"soft cotton for everyday wear"
+    },
+      {
+        "id":102,
+        "name":"Denim Jeans",
+        "price":65,
+        "description":"classic blue denim jeans"
+    },
+    {
+        "id":103,
+        "name":"Sports Jacket",
+        "price":150,
+        "description":"light weight jacket for outdoor activities"
+    },
+    {
+        "id":104,
+        "name":"Hoodie",
+        "price":90,
+        "description":"comfortable for cool weather"
+    },
+    {
+        "id":105,
+        "name":"Summer Dress",
+        "price":110,
+        "description":"soft cotton for summer"
+    }
+]
